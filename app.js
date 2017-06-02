@@ -31,7 +31,7 @@ app.post('/compliment',function(req,res){
 	"Your smile is contagious.", 
 	"You look great today.", 
 	"You're a smart cookie.", 
-	"On a scale from 1 to 10, you're an 11." 
+	"On a scale from 1 to 10, you're an 11.", 
 	"You're all that and a super-size bag of chips.",
 	"You're even more beautiful on the inside than you are on the outside.",
 	"If you were a box of crayons, you'd be the giant name-brand one with the built-in sharpener.",
